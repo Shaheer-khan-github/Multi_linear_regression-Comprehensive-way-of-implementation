@@ -34,6 +34,6 @@ Steps implemented in notebook are given below:
 
 13. Cross Validation
 
-14. Reference:
+14. Reference
 
-15. Helping material:
+15. Helping material
